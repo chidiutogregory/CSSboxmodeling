@@ -1,0 +1,30 @@
+.darkcyan{
+    background-color: darkcyan;
+    width: 200px;
+    height: 200px;
+    border: 10px solid  black;
+    padding: 20px;
+   
+}
+
+.yellow{
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+    border-top: 20px solid black;
+    border-right: 10px solid black;
+    border-bottom: 20px  solid black;
+    border-left: 10px solid black;
+    position: relative;
+    left: 250px;
+    
+}
+
+.firebrick{
+    background-color: firebrick;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    position: relative;
+    left: 41px;
+}
